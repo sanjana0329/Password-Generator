@@ -42,9 +42,7 @@ A Python-based GUI password generator built using **Tkinter** in PyCharm. This t
 
 ### Install dependencies:
 
-bash
 pip install pyperclip
-
 
 Tkinter comes pre-installed with most Python distributions.
 
@@ -67,14 +65,13 @@ Tkinter comes pre-installed with most Python distributions.
 
 ### Clone the repository:
 
-bash
 git clone https://github.com/sanjana0329/Password-Generator.git
+
 cd password-generator
 
 
 ### Run the script:
 
-bash
 python password_generator.py
 
 
