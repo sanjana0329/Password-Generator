@@ -1,7 +1,4 @@
 
-i want it like this 
-
-
 # 🔐 Password Generator
 
 A Python-based GUI password generator built using **Tkinter** in PyCharm. This tool allows users to generate secure passwords based on their selected strength (Weak, Medium, Strong) and desired length. The generated password can be easily copied to the clipboard using the pyperclip module.
