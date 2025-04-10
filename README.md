@@ -4,7 +4,6 @@ A Python-based GUI password generator built using **Tkinter** in PyCharm. This t
 
 ---
 
-
 ## 📚 Table of Contents
 
 - [Features](#features)
@@ -16,7 +15,6 @@ A Python-based GUI password generator built using **Tkinter** in PyCharm. This t
 - [License](#license)
 
 ---
-
 
 ## 🚀 Features
 
@@ -71,9 +69,10 @@ Tkinter comes pre-installed with most Python distributions.
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/sanjana0329/assword-Generator.git
+git clone https://github.com/sanjana0329/Password-Generator.git
 cd password-generator
 ```
+
 
 ### Run the script:
 
@@ -82,7 +81,6 @@ python password_generator.py
 ```
 
 ---
-
 
 ## 📷 Preview
 
@@ -96,8 +94,7 @@ python password_generator.py
 
 ![After Generation](screenshot_after.png)
 
-
-
+---
 
 ## 📄 License
 
