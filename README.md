@@ -72,8 +72,6 @@ git clone https://github.com/sanjana0329/Password-Generator.git
 cd password-generator
 
 
-> Replace your-username with your actual GitHub username.
-
 ### Run the script:
 
 bash
