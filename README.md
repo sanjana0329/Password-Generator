@@ -71,7 +71,7 @@ Tkinter comes pre-installed with most Python distributions.
 ### Clone the repository:
 
 bash
-git clone https://github.com/your-username/password-generator.git
+git clone https://github.com/sanjana0329/Password-Generator.git
 cd password-generator
 
 
