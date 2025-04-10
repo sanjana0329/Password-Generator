@@ -69,10 +69,11 @@ Tkinter comes pre-installed with most Python distributions.
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/sanjana0329/Password-Generator.git
+git clone https://github.com/your-username/password-generator.git
 cd password-generator
 ```
 
+> Replace `your-username` with your actual GitHub username.
 
 ### Run the script:
 
