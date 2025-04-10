@@ -84,15 +84,18 @@ python password_generator.py
 ### 🟢 Main Interface
 Main Interface
 
-![Image](https://github.com/user-attachments/assets/5f6a6b93-2cdb-4efa-81b0-f7722c913763)
+![Image](https://github.com/user-attachments/assets/c98c463b-ab22-43bb-afac-d17a76dd389b)
 
 ### 🟡 Example: After Password Generation
 
 After Generation
 
-![Image](https://github.com/user-attachments/assets/09367922-23a7-4e42-a7c5-5467de393c5e)
-![Image](https://github.com/user-attachments/assets/7b176b03-1095-4e79-bbf1-5190b6324ca5)
-![Image](https://github.com/user-attachments/assets/540db628-4ea8-474f-a4b6-846d94322ece)
+![Image](https://github.com/user-attachments/assets/c89f09bd-83ed-4389-9d20-b85a4384a10c)
+
+![Image](https://github.com/user-attachments/assets/f799e074-a142-468e-b3ac-4a7b83e74a74)
+
+![Image](https://github.com/user-attachments/assets/c2cd7fa1-6726-494b-803b-46174ebf998d)
+
 
 
 
