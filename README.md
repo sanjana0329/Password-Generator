@@ -9,7 +9,7 @@ A Python-based GUI password generator built using **Tkinter** in PyCharm. This t
 - [Features](#-features)
 - [Technologies Used](#-technologies-used)
 - [Requirements](#-requirements)
-- [How It Works](#-how-it-works)
+- [How It Works](#how-it-works)
 - [How to Run](#-how-to-run)
 - [Preview](#-preview)
 - [License](#-license)
